@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44836317851",
+    "project_id": "ksiazka-5e0e9",
+    "storage_bucket": "ksiazka-5e0e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44836317851:android:da473eb5cd570ef39c343e",
+        "android_client_info": {
+          "package_name": "com.bartekfrasik.ksiazka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44836317851-pmvg0c0q8ddeal70o8cflq1rvcg0b47b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTF-fjCqai1m2vU47ikWLrJN91GWKpyU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44836317851-pmvg0c0q8ddeal70o8cflq1rvcg0b47b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
